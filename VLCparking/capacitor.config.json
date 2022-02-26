@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "VLCparking",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
