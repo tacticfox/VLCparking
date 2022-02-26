@@ -1,7 +1,0 @@
-{
-  "name": "VLCparking",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "react"
-}
